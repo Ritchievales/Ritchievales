@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Oracle as a Devops Engineer<br>🌱 I’m currently learning DS&A (once again....)<br>💬 Ask me about Java, Linux...<br>👯 I’m looking to collaborate on Java projects 
+🔭 I’m currently working on Oracle as a Devops Engineer<br>🌱 I’m currently learning DS&A (once again....),SpringBoot, ReactJS and trying to get a Java Certification <br>💬 Ask me about Java, Linux...<br>👯 I’m looking to collaborate on Java projects 
 
 
 ## 🌐 Socials:
